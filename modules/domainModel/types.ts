@@ -31,6 +31,7 @@ export interface Relationship {
     from: string
     to: string
     cardinality: Cardinality
+    isChild: boolean
 }
 
 export interface Entity extends Id {
