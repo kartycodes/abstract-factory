@@ -10,3 +10,11 @@ We aim to show the extent to which the following activities can be minimized or 
 - Performance Monitoring
 - Performance Optimization
 - Metrics Collection
+
+## Running in Development Mode
+
+1. Clone the repo
+2. `npm install`
+3. `npm run dev`
+
+At this point in time, there is no "production" version.
